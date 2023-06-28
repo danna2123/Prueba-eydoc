@@ -1,0 +1,24 @@
+{
+  "name": "Prueba-eydoc",
+  "version": "1.0.0",
+  "description": "Prueba realizado para eydoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danna2123/Prueba-eydoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danna2123/Prueba-eydoc/issues"
+  },
+  "homepage": "https://github.com/danna2123/Prueba-eydoc#readme",
+  "dependencies": {
+    "react-icons": "^4.10.1",
+    "styled-components": "^6.0.0-rc.6"
+  }
+}
