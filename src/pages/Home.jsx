@@ -1,5 +1,5 @@
 import Styled from "styled-components";
-import fondo from "../assets/mi avatar.svg"
+import fondo from "../assets/mi avatar.svg";
 export function Home() {
     return (
         <Container className="Container">
